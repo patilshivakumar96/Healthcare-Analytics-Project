@@ -31,11 +31,13 @@ Interactive dashboards were created using **Tableau**, **Power BI**, and **Excel
 ## 🖼 Sample Visuals
 
 **Tableau Dashboard**  
-![Tableau Dashboard](<img width="960" height="480" alt="tableau dashboard" src="https://github.com/user-attachments/assets/20df0024-1afb-4a1e-9344-e1d28324073d" />
+![Tableau Dashboard](![tableau dashboard](https://github.com/user-attachments/assets/810b5635-c817-4fce-9b52-4ab40e770dfe)
+
 )
 
 **Power BI Dashboard**  
-![Power BI Dashboard](<img width="873" height="378" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/454f0d7a-b531-411a-bb19-b9e37276f7ee" />)
+![Power BI Dashboard](![PowerBI Dashboard](https://github.com/user-attachments/assets/4fbf3cc3-de8c-4431-8628-56b6f7d77371)
+)
 
 **Excel Dashboard**  
 ![Excel Dashboard](![excel dashboard](https://github.com/user-attachments/assets/e926c63c-0e32-40e0-b597-621f74a37a6f))
